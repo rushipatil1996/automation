@@ -12,3 +12,4 @@ int n=10;
 		System.out.println();//ending line after each row
 	}
 }
+//note-this is confidantial for suchita//
