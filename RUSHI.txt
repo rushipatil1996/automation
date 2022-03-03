@@ -1,0 +1,7 @@
+rushi
+
+
+System.setProperty("webdriver.chrome.driver", Configurations.driverPath);
+	WebDriver driver = new ChromeDriver();	
+	driver.get(Configurations.appURL);
+	driver.manage().window().maximize();
